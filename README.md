@@ -2,5 +2,5 @@
 - 👀 I’m interested in front end web development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, Angular, Vue.js, Bootstrap, Grid Layout, Web Design and UI/UX
 - 💞️ I want to collaborate with the creation of beautiful and responsive websites
-- 📫 How to reach me: E-mail: lucasabmaeltrabalho@gmail.com or Linkedim: www.linkedin.com/in/lucas-abmael-8b16bb264
+- 📫 How to reach me: E-mail: lucasabmaelbandeira@gmail.com or Linkedim: www.linkedin.com/in/lucas-abmael-8b16bb264
 - Obrigado por passar por aqui, se possível, compartilhe este repositório com os amigos, que Deus te abençoe e até a próxima!👋👋
