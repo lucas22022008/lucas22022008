@@ -1,9 +1,9 @@
-# Olá! eu sou Lucas Abmael 👋
+## Olá! eu sou Lucas Abmael 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasabmael)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas22022008&show_icons=true&theme=dark)
 
-## Tecnologias
+### Tecnologias
 
 <div style="display: inline_block;"><br>
     <img align-self="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -14,7 +14,7 @@
     <img align-self="center" alt="PHP8" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 
-## Contato
+### Contato
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasabmaelbandeira@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//5583999884375)
